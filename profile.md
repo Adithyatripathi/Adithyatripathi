@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adithyatripathi
 - 👀 I’m interested in coading and problemsolving
-- 🌱 I’m currently learning B.E computer science(II Year)
+- 🌱 I’m currently learning B.E computer science Final year
 - 💞️ I’m looking to collaborate on program like JAVA and PYTHON
 - 📫 How to reach me adithyatripathi1279@gmail.com
 
